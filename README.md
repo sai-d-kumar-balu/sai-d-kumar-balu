@@ -83,17 +83,60 @@ const saikumar = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sai-d-kumar-balu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-d-kumar-balu&layout=compact&theme=radical&hide_border=true&card_width=320"/>
+
+### 🔥 My GitHub Stats
+
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-d-kumar-balu&theme=github_dark" alt="Profile Details"/>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sai-d-kumar-balu&theme=github_dark" alt="Repos per Language"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sai-d-kumar-balu&theme=github_dark" alt="Most Commit Language"/>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sai-d-kumar-balu&theme=github_dark" alt="Stats"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sai-d-kumar-balu&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+</td>
+</tr>
+</table>
+
 </div>
 
+### 📈 Contribution Activity
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-d-kumar-balu&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-d-kumar-balu&bg_color=0d1117&color=ffffff&line=a855f7&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-<!-- Backup Streak Stats -->
+### 🏆 Achievement Showcase
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/demo/?user=sai-d-kumar-balu&theme=radical&hide_border=true" alt="GitHub Streak Backup" />
+
+| 🎯 **Metric** | 📊 **Value** | 🚀 **Status** |
+|:-------------:|:------------:|:-------------:|
+| **Years Active** | 2+ Years | 🔥 Growing |
+| **Projects Built** | 5+ Major | ✅ Completed |
+| **Tech Stack** | 10+ Technologies | 🌟 Expert |
+| **Clients Served** | 15+ Happy | 💯 Satisfied |
+| **Specialization** | Healthcare Tech | 🏥 Focused |
+| **Current Role** | Full Stack Dev | 💻 Active |
+
 </div>
 
 <div align="center">
