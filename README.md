@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Saikumar Balu
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+MEAN+Stack+Expert;Mobile+App+Developer;2%2B+Years+Experience;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+MEAN+Stack+Expert;Mobile+App+Developer;3%2B+Years+Experience;Always+Learning+New+Tech!" alt="Typing SVG" />
 </div>
 
 <div align="center">
